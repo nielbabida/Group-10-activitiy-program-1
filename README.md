@@ -5,7 +5,7 @@ using namespace std;
 int main() {
     string name;
     int birthYear, birthMonth, birthDay;
-    int currentYear = 2025, currentMonth = 2, currentDay = 26;
+    int currentYear = 2005, currentMonth = 4, currentDay = 19;
 
     cout << "Enter your name: ";
     getline(cin, name);
